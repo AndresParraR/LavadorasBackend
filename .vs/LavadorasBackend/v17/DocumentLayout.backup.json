@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE368CE-C394-4E93-A4A4-82081E5D4D33}|LavadorasBackend.Application\\Lavadoras.Application.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.application\\services\\operator\\operatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE368CE-C394-4E93-A4A4-82081E5D4D33}|LavadorasBackend.Application\\Lavadoras.Application.csproj|solutionrelative:lavadorasbackend.application\\services\\operator\\operatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperatorService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "RelativeToolTip": "LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:54:24.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

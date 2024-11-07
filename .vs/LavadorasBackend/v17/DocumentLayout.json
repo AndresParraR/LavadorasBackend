@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0220147-30D1-4727-800B-B005C0CFC1EF}|LavadorasBackend.API\\Lavadoras.API.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.api\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0220147-30D1-4727-800B-B005C0CFC1EF}|LavadorasBackend.API\\Lavadoras.API.csproj|solutionrelative:lavadorasbackend.api\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|solutionrelative:lavadorasbackend.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.domain\\entities\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|solutionrelative:lavadorasbackend.domain\\entities\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.domain\\entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|solutionrelative:lavadorasbackend.domain\\entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.domain\\enumerators\\roletypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|solutionrelative:lavadorasbackend.domain\\enumerators\\roletypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.domain\\enumerators\\usertypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CB20D-830E-4DE7-87B5-FB73E62F579A}|LavadorasBackend.Domain\\Lavadoras.Domain.csproj|solutionrelative:lavadorasbackend.domain\\enumerators\\usertypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE368CE-C394-4E93-A4A4-82081E5D4D33}|LavadorasBackend.Application\\Lavadoras.Application.csproj|c:\\users\\andre\\onedrive\\documentos\\study\\u. ean\\desarrollo web y movil\\lavadorasbackend\\lavadorasbackend.application\\services\\operator\\operatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE368CE-C394-4E93-A4A4-82081E5D4D33}|LavadorasBackend.Application\\Lavadoras.Application.csproj|solutionrelative:lavadorasbackend.application\\services\\operator\\operatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperatorController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.API\\Controllers\\OperatorController.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.API\\Controllers\\OperatorController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.API\\Controllers\\OperatorController.cs",
+              "RelativeToolTip": "LavadorasBackend.API\\Controllers\\OperatorController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:59:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Enumerators\\UserTypeEnum.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Domain\\Enumerators\\UserTypeEnum.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Enumerators\\UserTypeEnum.cs",
+              "RelativeToolTip": "LavadorasBackend.Domain\\Enumerators\\UserTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:58:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Enumerators\\RoleTypeEnum.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Domain\\Enumerators\\RoleTypeEnum.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Enumerators\\RoleTypeEnum.cs",
+              "RelativeToolTip": "LavadorasBackend.Domain\\Enumerators\\RoleTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:58:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Entities\\UserType.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Domain\\Entities\\UserType.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Entities\\UserType.cs",
+              "RelativeToolTip": "LavadorasBackend.Domain\\Entities\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:58:11.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Entities\\RoleType.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Domain\\Entities\\RoleType.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Entities\\RoleType.cs",
+              "RelativeToolTip": "LavadorasBackend.Domain\\Entities\\RoleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:58:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "LavadorasBackend.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:56:26.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperatorService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "RelativeDocumentMoniker": "LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Study\\U. EAN\\Desarrollo Web y Movil\\LavadorasBackend\\LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "RelativeToolTip": "LavadorasBackend.Application\\Services\\Operator\\OperatorService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:54:24.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

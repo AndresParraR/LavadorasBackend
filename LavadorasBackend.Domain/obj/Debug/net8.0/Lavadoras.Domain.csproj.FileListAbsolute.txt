@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\bin\Debug\net8.0\Lavadoras.Domain.deps.json
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\bin\Debug\net8.0\Lavadoras.Domain.dll
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\bin\Debug\net8.0\Lavadoras.Domain.pdb
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\Lavadoras.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\Lavadoras.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\Lavadoras.Domain.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\Lavadoras.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\Lavadoras.Domain.dll
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\refint\Lavadoras.Domain.dll
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\Lavadoras.Domain.pdb
+C:\Users\andre\OneDrive\Documentos\Study\U. EAN\Desarrollo Web y Movil\LavadorasBackend\LavadorasBackend.Domain\obj\Debug\net8.0\ref\Lavadoras.Domain.dll
